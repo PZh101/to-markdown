@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "zhoup",
+    "email": "zlove.freedomer@gmail.com"
+  },
+  "dependencies": {
+    "adm-zip-iconv": "^0.4.9",
+    "iconv-lite": "^0.6.3"
+  }
+}
